@@ -1,2 +1,2 @@
 #!/bin/bash
-necho Hello Atharva
+echo Hello Atharva
