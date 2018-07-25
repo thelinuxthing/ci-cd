@@ -8,3 +8,6 @@ jobs:
       - run:
           name: run script.sh
           command: bash script.sh
+      - run:
+          name: date
+          command: date
